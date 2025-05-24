@@ -25,31 +25,34 @@
 <div align="center">
   <img src="./img/bs1.png" width="500"/>
 </div>
-=> 정렬 진행
+- 정렬 진행
+
 <div align="center">
   <img src="./img/bs2.png" width="500"/>
 </div>
-=> 맨 왼쪽 left 
-=> 오른쪽 Right 
-=> 중앙  pivot
+- 맨 왼쪽 left 
+- 오른쪽 Right 
+- 중앙  pivot
+
 <div align="center">
   <img src="./img/bs3.png" width="500"/>
 </div>
-=> pivot < target
-=> left = pivot + 1
-=> pivot 중앙값 세팅
+- pivot < target
+- left = pivot + 1
+- pivot 중앙값 세팅
 
 <div align="center">
   <img src="./img/bs4.png" width="500"/>
 </div>
-=> pivot < target
-=> left = pivot + 1
-=> pivot 중앙값 세팅
+- pivot < target
+- left = pivot + 1
+- pivot 중앙값 세팅
+          
 <div align="center">
   <img src="./img/bs5.png" width="500"/>
 </div>
-=> pivot == target
-=> 탐색 종료
+- pivot == target
+- 탐색 종료
 
 ## 코드 예시
 
